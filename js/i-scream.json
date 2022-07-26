@@ -38,26 +38,28 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
-      "type": "frozen yogurt",
+      "name": "Magnum Double Caramel",
+      "calories": 330,
+      "type": "Ice Cream Bar",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "FRESH CREAM",
+        "SUGAR",
+        "CHOCOLATE",
+        "COCOA BUTTER"
       ],
-      "image": "strawberry-sprinkle.svg"
+      "image": "ice-cream-xtra1.svg"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
+      "name": "McFlurry",
+      "calories": 540,
       "type": "frozen yogurt",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "whipped vanilla-flavored cream",
+        "sugar",
+        "mono and diglycerides",
+        "cocoa butter"
       ],
-      "image": "strawberry-sprinkle.svg"
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
